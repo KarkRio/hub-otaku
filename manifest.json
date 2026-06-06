@@ -1,0 +1,29 @@
+{
+  "name": "Hub Otaku ∞",
+  "short_name": "HubOtaku",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060610",
+  "theme_color": "#FF0080",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f38c.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Portal definitivo da cultura japonesa com animes, mangás, jogos, notícias e IA Sakura.",
+  "categories": ["entertainment", "games"],
+  "lang": "pt-BR",
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=540&h=960&fit=crop",
+      "sizes": "540x960",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Tela inicial do Hub Otaku"
+    }
+  ]
+}
